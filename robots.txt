@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smilidemaa26.github.io/web-igamescn-com-cn/sitemap.xml
